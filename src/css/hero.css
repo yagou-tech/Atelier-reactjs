@@ -1,0 +1,9 @@
+media (min-width: 992px)
+.carousel-inner .carousel-item img {
+    height: calc(100vh - 130px);
+}
+
+.hero-carousel .owl-item img {
+  height: 600px;
+  object-fit: cover;
+  max-width: 100%;

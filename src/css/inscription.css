@@ -1,0 +1,8 @@
+.vh-100 {
+  background-color: #eee;
+  padding-top: 50px;
+}
+
+.card.text-black {
+  border-radius: 25px;
+}

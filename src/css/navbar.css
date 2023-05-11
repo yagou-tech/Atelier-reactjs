@@ -1,0 +1,9 @@
+.exit {
+  background-color: #e16309!important;
+  
+}
+.exit a.nav-link{
+  font-family: "roboto";
+  font-size: 20px;
+  color: #fff;
+}
